@@ -5,7 +5,7 @@
 }
 
 .projects {
-    padding: 80px 40px;
+    padding: 0px 40px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -13,7 +13,8 @@
 
 table {
     max-width: 800px;
-    margin-top: 50px;
+    margin-top: 0px;
+    margin-bottom: 40px;
 }
 
 table td {
@@ -21,7 +22,7 @@ table td {
 }
 
 table #project {
-    min-width: 110px;
+    min-width: 210px;
 }
 
 table #title {

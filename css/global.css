@@ -5,12 +5,12 @@ html {
 body {
 margin: 0;
 padding: 0;
-background-color: rgb(65, 87, 111);
+background-color: rgb(240, 90, 126);
 font-family: 'Lato', sans-serif;
 }
 
 nav {
-    background-color: rgb(45, 77, 77);
+    background-color: rgb(255, 190, 152);
 }
 
 nav .tech-container img {
@@ -41,7 +41,7 @@ nav .menu-container, .tech-container {
 }
 
 nav .nav-link {
-    color: rgb(216, 218, 221);
+    color: rgb(254, 255, 255);
     text-decoration: none;
     padding: 8px 12px;
     border-radius: 6px;
@@ -92,12 +92,12 @@ nav .hamburger-list-container .nav-link {
 
 
 section {
-    color: rgb(216, 216, 216);
+    color: #6E6E6DFF;
 }
 
 section a {
     text-decoration: none;
-    color: rgb(216, 216, 216)
+    color: rgb(106, 103, 103)
 }
 
 section h3 {
@@ -116,7 +116,7 @@ p {
 
 
 footer {
-    background-color: rgb(208, 140, 128);
+    background-color: rgb(18, 91, 154);
     display: flex;
     justify-content: flex-end;
     padding: 50px;

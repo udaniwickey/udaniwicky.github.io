@@ -1,5 +1,5 @@
 .about-me {
-  background-color: rgb(65, 87, 111);
+  background-color: rgb(240, 90, 126);
   text-align: center;
   padding: 80px;
 }
@@ -15,10 +15,12 @@ table {
   max-width: 800px;
   margin-top: 0px;
   margin-bottom: 40px;
+  font-size: medium;
 }
 
 table td {
   padding: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 table #project {
@@ -39,7 +41,7 @@ table #title {
 }
 
 section a {
-  color: rgb(233, 227, 110);
+  color: rgb(239, 233, 123);
 }
 
 .headshot-about {
